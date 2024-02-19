@@ -71,6 +71,9 @@ To deploy the Django application on Minikube, follow these steps:
     minikube service minikube-django-app-service
     ```
 
+5. [Docker image URL - pick V1](https://hub.docker.com/r/sohit28/python-app/tags)
+
+
 This will open the Django web application in your default web browser.
 
 ## Contributing
